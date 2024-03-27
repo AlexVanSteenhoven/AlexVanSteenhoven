@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/alex-van-steenhoven-03a779159/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/alex_steenhoven" target="_blank">
+  <a href="https://twitter.com/alexvsteenhoven" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/users/228969994086645761" target="_blank">
